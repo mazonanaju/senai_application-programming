@@ -8,3 +8,8 @@ createRoot(document.getElementById('root')).render(
     <App />
   </StrictMode>,
 )
+{/* 1 componente de cada tipo
+- Função anonima 
+- Função Flecha
+- Função normal
+ */}
