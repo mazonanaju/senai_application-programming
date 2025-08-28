@@ -1,5 +1,8 @@
 # 📘Desenvolvimento em React - Senai
 
+## Notas Gerais:
+- Para cancelar uma operação no terminal tecla-se `Ctrl+C`.
+
 ## 🚀 Fluxo 
 #### Toda vez que clonar um projeto existente, execute `npm i` antes de `npm run dev`! 
 
@@ -14,7 +17,7 @@ npm create vite@latest
 
 ### 2. Instalar dependências
 ```bash
-npm 
+npm i
 ```
 - Instala todas as bibliotecas necessárias (cria a pasta `node_modules`)
 - **NUNCA mexa manualmente** na pasta `node_modules`
