@@ -1,0 +1,10 @@
+.square{
+    height: 500px;
+    width: 500px;
+    
+}
+
+.quadradinhos{
+    display: flex;
+    justify-content: space-between;
+  }
